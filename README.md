@@ -1,5 +1,7 @@
 # cpx_chord_guitar
 
+**Currently broken** ; Adafruit changed something in touchio for CircuitPython 4.x, and it doesn't work any more
+
 Simple 7-chord touch-pad guitar for the Adafruit [Circuit Playground Express](https://www.adafruit.com/product/3333) (“CPX”). Plays C, D, E, F, G and A major chords, plus E*min*. Enough for traditional 3-chord (Ⅰ, Ⅳ, Ⅴ) songs in the keys of C, D and G.
 
 * Demo video: [Circuit Playground Express Chord Guitar](https://www.youtube.com/watch?v=lwbUNxSwCiw)
